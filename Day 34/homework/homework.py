@@ -1,8 +1,14 @@
-my_cars = ("BMW", "bughaty", "merceders", "lamborgin")
-my_cars[4] = "bugaty"
-my_cars[5] = "audi"
-my_cars[6] = "lexsus"
-my_cars[7] = "BMW"
+"""
+შექმენით სია რომელშიც მოათავსებთ თქვენი საყვარელი მანქანის სახელებს, მათში 4 იქნება ისეთი რომელიც არმოგწონთ, შემდეგ 
+შეცვლით მათ და დაბეჭდავთ შეცვლილი სიის თიოეულ ელემენტს ერთ წინადადებაში მაგ. ჩემი საყვარელი მანქანებია: bmw, 
+dodge, mercedes, lamborgini და ასე შემდეგ.
+"""
 
-print(my_cars)
-print(my_cars[0]+" " +my_cars[1]+" " +[2]+" " +my_cars[3])
+favorite_cars = ["BMW", "Mercedes", "Lexus", "Opel", "Nissan", "Toyota"]
+
+favorite_cars[2] = "Lamborghini"
+favorite_cars[3] = "Bugatti"
+favorite_cars[4] = "Ferrari"
+favorite_cars[5] = "Rolls Royce"
+
+print(favorite_cars)
