@@ -1,0 +1,39 @@
+#en{ 
+    text-align: right;
+    text-decoration: underline double green;
+}
+#rt{ 
+    text-align: center;
+    text-decoration: line-through;
+}
+#yu{ 
+    text-decoration: overline double red;
+}
+#io{ 
+    text-align: center;
+    text-decoration: underline;
+}
+#as{ 
+   text-align: right; 
+   text-decoration: line-through  double green;
+}
+#df{ 
+    text-decoration: line-through;
+}
+#gh{ 
+    text-decoration: overline;
+}
+#bm{ 
+    text-align: right;
+    color: green;
+    text-decoration: line-through  double green;
+}
+#n{ 
+    text-align: center;
+    color: gray;
+    text-decoration: overline double grey;
+}
+#o{ 
+    text-align: right;
+    text-decoration: underline double green;
+}
