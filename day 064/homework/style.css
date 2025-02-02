@@ -1,0 +1,42 @@
+#r{ 
+    background-color: aquamarine;
+    color: brown;
+    width: 700px;
+    height: 150px;
+}
+#e{ 
+    background-color: bisque;
+    color: red;
+    width: 700px;
+    height: 150px;
+}
+#d{
+    background-color: darkred;
+    color: green;
+    width: 700px;
+    height: 150px;
+}
+#a{
+    background-color: saddlebrown;
+    color: blue;
+    width: 700px;
+    height: 150px;
+}
+#z{ 
+    background-color: turquoise;
+    color: greenyellow;
+    width: 700px;
+    height: 150px;
+}
+#c{ 
+    width: 300px;
+    height: 300px;
+}
+#t{
+    width: 500px;
+    height: 300px;
+}
+#o{
+    width: 700px;
+    height: 500px;
+}

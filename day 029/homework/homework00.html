@@ -1,0 +1,43 @@
+<!-- 
+შექმენით ფორმა სადაც მომხმარებელი შემოიტანს სახელს, გვარს, ასაკს ტელეფონის ნომერს, ემაილს, პაროლს და 
+საცხოვრებელ ადგილს (დავალება უნდა იყოს დღევანდელი classwork-ის მსგავსი). 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Registration form</title>
+    </head>
+
+    <body style="background-color:black"></body>
+       <form>
+            <label for="name">Enter your name:</label>
+            <input type="text" name="name" id="name" placeholder="name"><br><br>
+            
+            <label for="surname">Enter your surname:</label>
+            <input type="text" name="surname" id="surname" placeholder="surname"><br><br>
+
+            <label for="age">Enter your age:</label>
+            <input type="number" name="age" id="age" placeholder="age"><br><br>
+            
+            <label for="phone_number">Enter your phone number:</label>
+            <input  type="tel" name="phone_number" id="phone_number" placeholder="phone number"><br><br>
+
+            <label for="email">Enter your email:</label>
+            <input  type="email" name="email" id="email" placeholder="email"><br><br>
+
+            <label for="password">Enter your password:</label>
+            <input type="password" name="password" id="password" placeholder="password"><br><br>  
+            
+            <label for="address">Enter your address:</label>
+            <textarea name="address" id="address" placeholder="address"></textarea><br><br>
+            
+            <input name="terms" id="terms" type="checkbox">
+            <label for="terms">I accept terms</label><br><br>
+
+            <input type="submit"></input>
+       </form>  
+    </body>
+</html>

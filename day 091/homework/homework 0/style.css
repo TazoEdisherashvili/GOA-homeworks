@@ -1,0 +1,22 @@
+t{ 
+    border: 1px dotted red;
+    outline: none;
+}
+
+a{ 
+    border: 2px dotted blue;
+    outline: none;
+}
+
+z{ 
+    border: 3px dotted green;
+}
+
+o{ 
+    border: 4px dotted gainsboro;
+}
+
+k{ 
+    border: 5px dotted brown;
+    outline: none;
+}
