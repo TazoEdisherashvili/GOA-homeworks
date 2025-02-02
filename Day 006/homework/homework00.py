@@ -12,3 +12,4 @@ birth_year = input("Enter your birth year: ")
 height = input("Enter your height: ")
 
 print("Your name is", name + ", your surname is", surname + ", your age is", age + ", your address is", address + ", your birth year is", birth_year + ", your height is", height + ".")
+print("Hello world")
